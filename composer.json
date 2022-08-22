@@ -1,0 +1,12 @@
+{
+    "name": "andryg/jgrowl",
+    "type": "library",
+    "description": "jgrowl муки подключения",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Author",
+            "role": "Developer"
+        }
+    ]
+}
